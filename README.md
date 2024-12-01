@@ -85,6 +85,10 @@ aibot-project/
 └── README.md            # Project documentation
 ```
 
+## Interface
+
+![image](https://github.com/user-attachments/assets/823d7537-7603-44aa-936c-ae41aac63283)
+
 ## License
 
   - This project is licensed under the MIT License. See the LICENSE file for details.
