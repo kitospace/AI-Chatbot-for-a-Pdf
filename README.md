@@ -74,13 +74,16 @@ python app.py
   - Type a query related to the document in the text input box.
   - The bot will respond with the most relevant answer extracted from the document.
 
-### 3. aibot-project/
+### 3. Setup
+```plaintext
+aibot-project/
 ├── app.py               # Main Flask application
 ├── requirements.txt     # Python package dependencies
 ├── uploads/             # Directory for storing uploaded PDFs
 ├── static/              # Directory for static files (CSS, JS, etc.)
 ├── templates/           # HTML templates
 └── README.md            # Project documentation
+```
 
 ## License
 
