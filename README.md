@@ -62,8 +62,8 @@ pip install -r requirements.txt
 python app.py
 ```
 ### 4. Access the App
--http://127.0.0.1:5000
--Or http://your_local_address:500
+   - http://127.0.0.1:5000, or
+   - http://your_local_address:500
 
 ## Usage
 
@@ -92,5 +92,5 @@ aibot-project/
 ## Contact
 For questions or further assistance, feel free to reach out:
 
-Name: Puneet Kumar Rajan
-Email: puneetrajan997@gmail.com
+   - Name: Puneet Kumar Rajan
+   - Email: puneetrajan997@gmail.com
